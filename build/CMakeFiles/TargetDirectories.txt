@@ -1,0 +1,3 @@
+/Users/furkanozen/Desktop/kodlar/Deneme/build/CMakeFiles/my_program.dir
+/Users/furkanozen/Desktop/kodlar/Deneme/build/CMakeFiles/edit_cache.dir
+/Users/furkanozen/Desktop/kodlar/Deneme/build/CMakeFiles/rebuild_cache.dir
